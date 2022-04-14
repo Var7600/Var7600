@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DD7600
-- 👀 I’m interested in computer science 
-- 🌱 I’m currently learning computer science and electronics
-- 💞️ I’m looking to collaborate on anything 
+- 👋 Hi, I’m @Doudou Diawara
+- 👀 I’m a student in computer science and electronics 
+- I'm currently living in Montreal
+- 💞️ I’m looking to collaborate on project 
 - 📫 How to reach me discord Var7600#3286
 
 <!---

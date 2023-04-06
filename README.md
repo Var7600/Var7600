@@ -3,7 +3,7 @@
 - 💞️ **I’m looking to collaborate on project** 
 - 📫 **How to reach me discord Var7600#3286**
 
-![DD7600](https://hit.yhype.me/github/profile?user_id=77991946)
+![](https://komarev.com/ghpvc/?username=DD7600)
 
 # Programming Language
 

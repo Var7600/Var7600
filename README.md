@@ -12,7 +12,7 @@
 
 # HARDWARE 
 
-<img src="https://avatars2.githubusercontent.com/u/21169439?s=400&v=4" alt="VHDL" width="60" height="60" />  <img src="https://www.meldium.com/wp-content/uploads/2018/11/FpgaServices.png" alt="FPGA" width="60" height="60" />
+<img src="https://www.meldium.com/wp-content/uploads/2018/11/FpgaServices.png" alt="FPGA" width="60" height="60" />
           
           
           

@@ -1,6 +1,6 @@
 - 👋 **Hi, I’m @Doudou**
 - 💞️ **I’m looking to collaborate on project** 
-- 📫 **How to reach me [e-mail](mailto: zeta2@duck.com) or discord Var7600#3286**
+- 📫 **How to reach me [e-mail](mailto:zeta2@duck.com) or discord Var7600#3286**
 
 ![](https://komarev.com/ghpvc/?username=DD7600)
 

@@ -5,6 +5,8 @@
 ![](https://komarev.com/ghpvc/?username=DD7600)<br>
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Var7600&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Var7600&layout=compact)
 
   # Tech Stack 💻
 ## Programming Languages

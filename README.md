@@ -14,7 +14,7 @@
 ## Build Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" alt="maven" width="60" height="60"/>
 
-## Framework
+## Frameworks
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"  alt="bootstrap" width="40" height="40" />
           
 

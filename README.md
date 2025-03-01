@@ -1,3 +1,8 @@
+## Welcome! <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fc.gif" width="40px">
+
+### Subscribe to my [YouTube Channel](https://youtube.com/@Var7600) where I post Tutorials videos!
+### Or A AnimeLovers Like ME!(Vɇ₲ɇ₮₳)/Otaku(ʙᴀɴᴋᴀɪ!⛩️)  follow my Podcast [AnimeAddict](https://open.spotify.com/show/79w8HcCGMwSCAW65sNgQL2?si=sK5Yi6BfRG-U3928oc3UJA) 
+
 - 👋 **Hi, I’m @Doudou**
 - 💞️ **I’m looking to collaborate on project** 
 - 📫 **How to reach me [e-mail](mailto:zeta2@duck.com) or discord Var7600#3286**

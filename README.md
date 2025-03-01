@@ -1,4 +1,4 @@
-## Welcome! <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fc.gif" width="40px">
+## Welcome! <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fc.gif" width="40px"> <img src="https://github.com/user-attachments/assets/cd8896e5-b8b9-45e1-861e-cbd9f0c56543" width="80px">
 
 ### Subscribe to my [YouTube Channel](https://youtube.com/@Var7600) where I post Tutorials videos!
 ### Or A AnimeLovers Like ME!(Vɇ₲ɇ₮₳)/Otaku(ʙᴀɴᴋᴀɪ!⛩️)  follow my Podcast [AnimeAddict](https://open.spotify.com/show/79w8HcCGMwSCAW65sNgQL2?si=sK5Yi6BfRG-U3928oc3UJA) 
